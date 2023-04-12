@@ -1,0 +1,109 @@
+Country_name,code,degree_level,Corruption_index,Ladder_score,Continent
+Argentina,ARG,14.0340089,40,6.024,South America
+Armenia,ARM,24.19773908,35,5.342,Asia
+Australia,AUS,27.96245962,77,7.095,Oceania
+Austria,AUT,14.80913231,76,7.097,Europe
+Bahrain,BHR,14.45461706,36,6.173,Asia
+Bangladesh,BGD,14.70523242,26,4.282,Asia
+Belgium,BEL,31.09935878,75,6.859,Europe
+Benin,BEN,3.47802277,40,4.374,Africa
+Bolivia,BOL,22.3916509,29,5.684,South America
+Brazil,BRA,8.780421938,35,6.125,South America
+Bulgaria,BGR,23.25405966,42,5.466,Europe
+Burkina Faso,BFA,2.900565247,41,4.638,Africa
+Cambodia,KHM,1.961849432,20,4.393,Asia
+Cameroon,CMR,6.442970183,25,4.973,Africa
+Canada,CAN,39.16034307,81,6.961,North America
+Chad,TCD,1.550050732,19,4.397,Africa
+Chile,CHL,29.25581351,67,6.334,South America
+China,CHN,7.797640395,39,5.818,Asia
+Colombia,COL,18.644955,36,5.63,South America
+Comoros,COM,5.74803557,27,3.545,Africa
+Costa Rica,CRI,20.47826256,56,6.609,North America
+Croatia,HRV,11.92591099,48,6.125,Europe
+Cyprus,CYP,19.13097955,59,6.13,Asia
+Czechia,CZE,13.07334442,59,6.845,Europe
+Denmark,DNK,24.94138227,88,7.586,Europe
+Dominican Republic,DOM,23.46018038,30,5.569,North America
+Ecuador,ECU,21.31130617,34,5.559,South America
+Egypt,EGY,18.66071305,35,4.17,Africa
+El Salvador,SLV,15.94966082,35,6.122,North America
+Estonia,EST,19.52933387,73,6.455,Europe
+Ethiopia,ETH,2.069581091,34,4.091,Africa
+Finland,FIN,34.6863378,85,7.804,Europe
+France,FRA,28.8553892,72,6.661,Europe
+Gabon,GAB,9.895424025,31,5.035,Africa
+Germany,DEU,23.07854274,80,6.892,Europe
+Ghana,GHA,6.687788132,41,4.605,Africa
+Greece,GRC,21.05904718,45,5.931,Europe
+Guatemala,GTM,7.997272915,27,6.15,North America
+Guinea,GIN,4.744937307,28,5.072,Africa
+Honduras,HND,7.977643328,29,6.023,North America
+Hungary,HUN,15.70004748,46,6.041,Europe
+India,IND,9.445015386,41,4.036,Asia
+Indonesia,IDN,10.33303626,38,5.277,Asia
+Iran,IRN,13.6287076,28,4.876,Asia
+Ireland,IRL,33.0318247,73,6.911,Europe
+Italy,ITA,12.17394503,52,6.405,Europe
+Japan,JPN,38.11831484,73,6.129,Asia
+Jordan,JOR,2.261703838,49,4.12,Asia
+Kazakhstan,KAZ,21.36876839,31,6.144,Asia
+Kenya,KEN,10.47628028,27,4.487,Africa
+Kyrgyzstan,KGZ,20.40578449,29,5.825,Asia
+Laos,LAO,13.06925223,29,5.111,Asia
+Latvia,LVA,20.26577116,58,6.213,Europe
+Lithuania,LTU,19.30967549,59,6.763,Europe
+Luxembourg,LUX,19.88723014,81,7.228,Europe
+Madagascar,MDG,3.835791736,25,4.019,Africa
+Malawi,MWI,1.045858013,32,3.495,Africa
+Malaysia,MYS,17.46202612,47,6.012,Asia
+Mali,MLI,2.817498674,32,4.198,Africa
+Malta,MLT,14.27038579,54,6.3,Europe
+Mauritania,MRT,5.788585198,27,4.724,Africa
+Mauritius,MUS,3.737396541,51,5.902,Africa
+Mexico,MEX,15.9353795,28,6.33,North America
+Mongolia,MNG,25.04760092,37,5.84,Asia
+Morocco,MAR,9.988914649,43,4.903,Africa
+Mozambique,MOZ,1.081157169,23,4.954,Africa
+Myanmar,MMR,8.546264761,29,4.372,Asia
+Namibia,NAM,4.679537466,53,4.631,Africa
+Nepal,NPL,7.885972902,31,5.36,Asia
+Netherlands,NLD,23.40875325,82,7.403,Europe
+New Zealand,NZL,27.56569017,87,7.123,Oceania
+Nicaragua,NIC,16.40046178,25,6.259,North America
+Niger,NER,1.957063101,34,4.501,Africa
+Nigeria,NGA,12.2331563,27,4.981,Africa
+North Macedonia,MKD,13.28316466,37,5.254,Europe
+Norway,NOR,29.32205292,84,7.315,Europe
+Pakistan,PAK,8.931863798,33,4.555,Asia
+Panama,PAN,21.96756425,37,6.265,North America
+Paraguay,PRY,16.64953734,29,5.738,South America
+Peru,PER,15.57307784,35,5.526,South America
+Philippines,PHL,26.64283698,36,5.523,Asia
+Poland,POL,17.7296766,60,6.26,Europe
+Portugal,PRT,20.55286367,64,5.968,Europe
+Romania,ROU,11.7488843,47,6.589,Europe
+Russia,RUS,26.86390089,28,5.661,Europe
+Saudi Arabia,SAU,13.75321135,49,6.463,Asia
+Singapore,SGP,33.05412306,85,6.587,Asia
+Slovakia,SVK,14.77711663,50,6.469,Europe
+Slovenia,SVN,19.18155391,60,6.65,Europe
+South Africa,ZAF,11.35948842,43,5.275,Africa
+South Korea,KOR,33.98050334,57,5.951,Asia
+Spain,ESP,11.06571463,58,6.436,Europe
+Sri Lanka,LKA,19.73211035,38,4.442,Asia
+Sweden,SWE,24.56914122,85,7.395,Europe
+Switzerland,CHE,23.08009262,85,7.24,Europe
+Tajikistan,TJK,11.67462215,25,5.33,Asia
+Tanzania,TZA,1.514281555,36,3.694,Africa
+Thailand,THA,18.32102442,36,5.843,Asia
+Togo,TGO,2.73296596,30,4.137,Africa
+Uganda,UGA,7.253447436,26,4.432,Africa
+Ukraine,UKR,20.23216039,32,5.071,Europe
+United Kingdom,GBR,27.7505596,80,6.796,Europe
+United States,USA,27.01490354,71,6.894,North America
+Uruguay,URY,6.522740889,70,6.494,South America
+Uzbekistan,UZB,19.54564046,23,6.014,Asia
+Vietnam,VNM,6.345064617,33,5.763,Asia
+Zambia,ZMB,7.280779623,35,3.982,Africa
+Zimbabwe,ZWE,8.862740066,22,3.204,Africa
